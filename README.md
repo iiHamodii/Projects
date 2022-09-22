@@ -1,3 +1,3 @@
 # Projects
 
-this file is all my  projects
+this folder is all my  projects
